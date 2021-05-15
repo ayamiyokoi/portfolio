@@ -1,3 +1,4 @@
+/* ヘッダー */
 header {
   background-color: #ec715f;
   height: 70px;
@@ -19,4 +20,22 @@ li {
 }
 .navbar {
   display: flex;
+}
+
+/* メイン */
+.main-image {
+  background-image: url(img/mv.png);
+  height: 650px;
+}
+.main-text {
+  color: #fafafa;
+  text-align: center;
+}
+.main-text h1 {
+  font-size: 64px;
+  padding-top: 200px;
+}
+
+.main-text p {
+  font-size: 20px;
 }
