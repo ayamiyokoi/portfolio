@@ -1,0 +1,22 @@
+header {
+  background-color: #ec715f;
+  height: 70px;
+}
+
+header img {
+  height: 70px;
+}
+ul {
+  display: flex;
+}
+li {
+  list-style-type: none;
+  font-size: 16px;
+  color: #fafafa;
+  padding-left: 30px;
+  padding-right: 30px;
+  height: 70px;
+}
+.navbar {
+  display: flex;
+}
